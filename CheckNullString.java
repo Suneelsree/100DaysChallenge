@@ -1,4 +1,4 @@
-class Main {
+class CheckNullString {
   public static void main(String[] args) {
     String str1 = null;
     String str2 = "";
