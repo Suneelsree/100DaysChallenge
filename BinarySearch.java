@@ -20,7 +20,7 @@ class BinarySearch{
         Scanner s=new Scanner(System.in);
         System.out.println("enter no of elements");
          int n=s.nextInt();
-        int arr[n] =new int();  
+        int arr[] =new int[n];  
         System.out.println("enter Element one by one:");
         for(int i=0;i<n;i++)
         {
